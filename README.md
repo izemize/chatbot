@@ -1,4 +1,4 @@
 # chatbot
 Youtube Chat bot GabenY
 
-Powered by GetSongBPM.
+<a href="https://getsongbpm.com/">GetSongBPM</a>
